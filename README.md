@@ -47,8 +47,8 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your-username/passvault.git](https://github.com/your-username/passvault.git)
-    cd passvault
+    git clone [https://github.com/Dream1ance/PassVault-Image_based_Encryption](https://github.com/Dream1ance/PassVault-Image_based_Encryption/passvault_v2.git)
+    cd passvault_v2
     ```
 
 2.  **Install the required packages**
@@ -77,10 +77,10 @@ The entire security of this password vault rests on the **secrecy and integrity 
 
 This project was created with passion by:
 
-* **Your Name** - *Project Lead* - [GitHub Profile](https://github.com/your-username)
-* **Teammate 1 Name** - *Backend & Crypto* - [GitHub Profile](https://github.com/teammate1-username)
-* **Teammate 2 Name** - *Database & Logic* - [GitHub Profile](https://github.com/teammate2-username)
-    *(Add or modify roles and teammates as needed)*
+* Harish - [GitHub Profile](https://github.com/Dream1ance)
+* Janarthanan - [GitHub Profile](https://github.com/jana-4)
+* Arshad - [GitHub Profile](https://github.com/teammate2-username)
+* Jaffer - [GitHub Profile](https://github.com/teammate2-username)
 
 ## 📄 License
 
