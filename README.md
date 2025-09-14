@@ -1,4 +1,4 @@
-# Passvault 🔐
+/# Passvault 🔐
 
 Passvault is a unique, command-line password manager that uses **any image file as a master key** to encrypt and secure your sensitive passwords. Instead of remembering a complex master password, you just need to have the right image.
 
@@ -79,8 +79,8 @@ This project was created with passion by:
 
 * Harish - [GitHub Profile](https://github.com/Dream1ance)
 * Janarthanan - [GitHub Profile](https://github.com/jana-4)
-* Arshad - [GitHub Profile](https://github.com/teammate2-username)
-* Jaffer - [GitHub Profile](https://github.com/teammate2-username)
+* Arshad - [GitHub Profile](https://github.com/mdarshd)
+* Jaffer - [GitHub Profile](https://github.com/JafferSharif13)
 
 ## 📄 License
 
